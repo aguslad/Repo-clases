@@ -74,7 +74,7 @@ function main(){
 // console.log("Fecha de Caducidad:", pan.fechaCaducidad);
 
 
-
+console.log("hola")
 // Creación de la instancia
 const helado = new ProductoCongelado("Helado de Vainilla", 2.99, "2024-12-31", -18);
 
